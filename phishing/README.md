@@ -24,4 +24,4 @@
 
 ![image](site-falso.png)
 
-- Os valores inseridos nos campos de email e senha aparecerão na linha de comando
+- Os valores inseridos nos campos de email e senha aparecerão no console
