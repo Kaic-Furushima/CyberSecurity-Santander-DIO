@@ -8,7 +8,7 @@
 
 - 3 - Escolher a opção ```Social-Engineering Attacks```
 
-- 4 - Escolher a opção ```Web Site Attack Vectors```
+- 4 - Escolher a opção ```Website Attack Vectors```
 
 - 5 - Escolher a opção ```Credential Harvester Attack Method```
 
